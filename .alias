@@ -1,0 +1,2 @@
+#Refresh display variable
+  alias r "source /usr2/jtingen/bin/qc/r"

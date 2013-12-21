@@ -1,0 +1,1 @@
+  alias ctlsco "ct lsco -cview -me -avobs | grep checkout | awk '{print "\$5"}'"
