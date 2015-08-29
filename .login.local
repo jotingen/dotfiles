@@ -1,2 +1,0 @@
-# Fix backspace key being funny
-stty erase ''
